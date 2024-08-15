@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayuumie
-- 👀 I’m interested in Zig, C and Godot.
-- 🌱 I’m currently learning C and Zig⚡
+- 👀 I’m interested in Rust 🦀, Zig ⚡, C and Godot.
+- 🌱 I’m currently learning C and Zig
 - 💞️ I’m looking to collaborate on game dev related projects.
 - 📫 How to reach me @rayuumie on socials 🧙‍♂️👍🏻
 
